@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WizardSoft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WizardSoft\Wizard FireWork]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WizardSoft\Wizard FireWork\SetUp]
+"Path1"="C:\\ALBERT\\UniversalSuper\\Data\\TBASE.GDB"
+"Path2"="C:\\ALBERT\\UniversalSuper\\Data\\PAGEFILE.SYS"
+"Path3"="C:\\ALBERT\\UniversalSuper\\Data\\Generators.gdb"
+
